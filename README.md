@@ -2,6 +2,7 @@
 
 # 🤖 AI Resume Builder
 
+🚀 **Live Demo**: [Visit here](https://ai-powered-resume-builder-alpha.vercel.app)
 A powerful full-stack web application that helps job seekers create **ATS-optimized resumes** with **AI assistance** and **real-time scoring**.
 
 ![Next.js](https://img.shields.io/badge/Next.js-14.0-black?style=for-the-badge&logo=next.js)
