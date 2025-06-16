@@ -74,10 +74,9 @@ A powerful full-stack web application that helps job seekers create **ATS-optimi
 
 ### 🔧 Installation
 
----
 
-````markdown
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/yourusername/ai-resume-builder.git
    cd ai-resume-builder
@@ -271,4 +270,14 @@ RATE_LIMIT_MAX_REQUESTS=100
 
 ---
 
+## 📸 Screenshots
 
+<img src="./Screenshot (134).png" width="100%">
+<img src="./Screenshot (132).png" width="100%">
+<img src="./Screenshot 2025-06-16 100711.png" width="100%">
+<img src="./Screenshot (131).png" width="100%">
+<img src="./Screenshot (129).png" width="100%">
+<img src="./Screenshot (128).png" width="100%">
+<img src="./Screenshot (133).png" width="100%">
+<img src="./Screenshot (137).png" width="100%">
+<img src="./Screenshot (136).png" width="100%">
