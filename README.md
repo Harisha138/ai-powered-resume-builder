@@ -1,4 +1,6 @@
 
+
+
 # 🤖 AI Resume Builder
 
 A powerful full-stack web application that helps job seekers create **ATS-optimized resumes** with **AI assistance** and **real-time scoring**.
@@ -69,7 +71,9 @@ A powerful full-stack web application that helps job seekers create **ATS-optimi
 - MongoDB Atlas account (or local)
 - OpenAI API Key
 - Google OAuth credentials
+---
 
+````markdown
 ### 🔧 Installation
 
 1. **Clone the repository**
