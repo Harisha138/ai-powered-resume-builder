@@ -71,11 +71,12 @@ A powerful full-stack web application that helps job seekers create **ATS-optimi
 - MongoDB Atlas account (or local)
 - OpenAI API Key
 - Google OAuth credentials
+
+### 🔧 Installation
+
 ---
 
 ````markdown
-### 🔧 Installation
-
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/ai-resume-builder.git
