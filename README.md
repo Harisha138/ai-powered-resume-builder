@@ -10,9 +10,6 @@ A powerful full-stack web application that helps job seekers create **ATS-optimi
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-blue?style=for-the-badge&logo=openai)
 
 ---
-
-````markdown
-
 ## ✨ Features
 
 ### 🎯 ATS Optimization
@@ -74,7 +71,9 @@ A powerful full-stack web application that helps job seekers create **ATS-optimi
 - Google OAuth credentials
 
 ### 🔧 Installation
+---
 
+````markdown
 1. **Clone the repository**
 
    ```bash
