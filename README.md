@@ -1,8 +1,4 @@
-Here's a **cleaned-up and visually polished version** of your `README.md` for the full AI Resume Builder web app — with working code blocks, neat formatting, and no broken markdown syntax.
 
----
-
-````markdown
 # 🤖 AI Resume Builder
 
 A powerful full-stack web application that helps job seekers create **ATS-optimized resumes** with **AI assistance** and **real-time scoring**.
