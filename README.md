@@ -1,6 +1,7 @@
 
+---
 
-
+````markdown
 # 🤖 AI Resume Builder
 
 A powerful full-stack web application that helps job seekers create **ATS-optimized resumes** with **AI assistance** and **real-time scoring**.
@@ -74,7 +75,6 @@ A powerful full-stack web application that helps job seekers create **ATS-optimi
 
 ### 🔧 Installation
 
-
 1. **Clone the repository**
 
    ```bash
@@ -118,7 +118,7 @@ A powerful full-stack web application that helps job seekers create **ATS-optimi
    npm run dev
    ```
 
-7. Open in browser:
+7. **Open in browser**
 
    * Frontend: `http://localhost:3000`
    * Backend Health: `http://localhost:5000/api/health`
@@ -224,9 +224,21 @@ vercel --prod
 ## 🤝 Contributing
 
 1. Fork the repo
-2. Create a branch: `git checkout -b feature/my-feature`
-3. Commit your changes: `git commit -m "Add feature"`
-4. Push to GitHub: `git push origin feature/my-feature`
+2. Create a branch:
+
+   ```bash
+   git checkout -b feature/my-feature
+   ```
+3. Commit your changes:
+
+   ```bash
+   git commit -m "Add feature"
+   ```
+4. Push to GitHub:
+
+   ```bash
+   git push origin feature/my-feature
+   ```
 5. Submit a Pull Request 🚀
 
 ---
@@ -281,3 +293,7 @@ RATE_LIMIT_MAX_REQUESTS=100
 <img src="./Screenshot (133).png" width="100%">
 <img src="./Screenshot (137).png" width="100%">
 <img src="./Screenshot (136).png" width="100%">
+```
+
+---
+
